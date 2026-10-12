@@ -1,6 +1,6 @@
 {
-  "version": "0.11.3",
-  "notes": "Settings stays visible in full mode, and search suggestions show their address on hover.",
+  "version": "0.11.5",
+  "notes": "Quit Tagg in the T-menu, Tagg can be your Mac's default browser, the chat stays above related pages; copy and paste work inside pages on Windows; Stop stops the voice.",
   "mac_arm64": "https://tagg.now/download/mac",
   "mac_x64": "https://tagg.now/download/mac-intel",
   "win": "https://tagg.now/download/windows"
