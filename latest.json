@@ -1,8 +1,8 @@
 {
-  "version": "0.11.5",
+  "version": "0.11.7",
   "win_version": "0.11.7",
-  "mac_version": "0.11.5",
-  "notes": "Quit Tagg in the T-menu, Tagg can be your Mac's default browser, the chat stays above related pages; copy and paste work inside pages on Windows; Stop stops the voice.",
+  "mac_version": "0.11.7",
+  "notes": "Log in or sign up with one button, and Settings greets you with where your account stands. The Windows installer is now signed by Beam AI.",
   "mac_arm64": "https://tagg.now/download/mac",
   "mac_x64": "https://tagg.now/download/mac-intel",
   "win": "https://tagg.now/download/windows"
