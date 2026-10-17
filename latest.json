@@ -1,9 +1,13 @@
 {
-  "version": "0.11.7",
-  "win_version": "0.11.7",
-  "mac_version": "0.11.7",
-  "notes": "Log in or sign up with one button, and Settings greets you with where your account stands. The Windows installer is now signed by Beam AI.",
+  "version": "0.11.8",
+  "win_version": "0.11.8",
+  "mac_version": "0.11.8",
+  "notes": "An important security update: web pages can no longer trick Tagg AI into sharing your data, card numbers stay out of logs, and from now on updates install themselves.",
   "mac_arm64": "https://tagg.now/download/mac",
   "mac_x64": "https://tagg.now/download/mac-intel",
-  "win": "https://tagg.now/download/windows"
+  "win": "https://tagg.now/download/windows",
+  "win_sha512": "7+v3/RFa0UPnkw7JbA/OeYQr3ZaLzFLxyp5rtvjGi8oeufWVC/GJGdW0AMi+EoBWDaS89XsaoIdZ2XDxWEZjzA==",
+  "mac_arm64_sha256": "669c378a7b47924e41e46aa0aa42cf6ed7409373d51f3fa8b3a1674dfe4f0333",
+  "mac_x64_sha256": "b2488952632715251e63b9047071efaf80c26e31492fe15ecaa0d675b5fcb39a",
+  "required_below": "0.11.8"
 }
