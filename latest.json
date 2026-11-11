@@ -1,13 +1,13 @@
 {
   "version": "0.11.9",
   "win_version": "0.11.9",
-  "mac_version": "0.11.8",
-  "notes": "The voice orb and the chat now work as one conversation, the chat opens at your latest message, and a stop button stops whatever Tagg AI is doing.",
+  "mac_version": "0.11.9",
+  "notes": "Tagg AI is faster and steadier: it no longer loses what you said mid-sentence, the chat panel shows what it is doing, and it types where you meant to. Plus a security update — web pages can no longer trick Tagg AI into sharing your data, and card numbers and secret links stay out of logs.",
   "mac_arm64": "https://tagg.now/download/mac",
   "mac_x64": "https://tagg.now/download/mac-intel",
   "win": "https://tagg.now/download/windows",
   "win_sha512": "9l1ysfDEpJCF6F6ieUTqO38IzmbcX3HdVAncGKKIbqqvD5Usc85LELQ7WgS//OWHNXqR182xPf4WV6DBIlkpeg==",
-  "mac_arm64_sha256": "669c378a7b47924e41e46aa0aa42cf6ed7409373d51f3fa8b3a1674dfe4f0333",
-  "mac_x64_sha256": "b2488952632715251e63b9047071efaf80c26e31492fe15ecaa0d675b5fcb39a",
+  "mac_arm64_sha256": "ddb8034e3e85ca058418d5434fa13f89c06c60700b785ea176cd436e50383083",
+  "mac_x64_sha256": "c5709c99facf86d1f529cba27258bd2e3d6203932285c3ca7c59be5543109359",
   "required_below": "0.11.8"
 }
